@@ -42,16 +42,16 @@ public class Prac {
 					// that value by creating an integer and storing this called method in that.
 		new Prac().div(2, 6); // the method div is non static so object is created and values are passed.
 		arun o1 = new arun();
-		arun o2 = new arun("hello");
+		arun o2 = new arun("Hello");
 	}
 }
 
 class arun {
 	public arun() {
-		System.out.println("I am a constructor");
+		System.out.println("I am a programmer");
 	}
 
 	public arun(String xyz) {
-		System.out.println("arun is");
+		System.out.println("Haise is");
 	}
 }

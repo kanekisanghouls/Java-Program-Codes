@@ -20,7 +20,7 @@ public class polymorphism {
 	public static void main(String[] args) {
 		polymorphism[] p = new polymorphism[3];
 		p[0] = new polymorphism("Tim");
-		p[1] = new Student2("Cara", 1234);
+		p[1] = new Student2("Touka", 1234);
 
 		// Example of the compile time rule no 1, where the compiler returns a method
 		// signature for polymorphism class to string method, as String toString(). when
@@ -48,7 +48,7 @@ public class polymorphism {
 		// only executes if p is-a student2 at runtime
 		// (Student2(p)).getSID(); }
 
-		p[2] = new Faculty1("Mia", "ABCD");
+		p[2] = new Faculty1("Haise", "ABCD");
 
 		for (int i = 0; i < p.length; i++) {
 			System.out.println(p[i]);

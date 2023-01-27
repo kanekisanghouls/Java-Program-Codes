@@ -27,7 +27,7 @@ public class InsertionSort {
 		System.out.println("Enter no of elements: ");
 		n= sc.nextInt();
 		int a[]= new int[n];
-		System.out.println("Enter Unsorted array elemnts: ");
+		System.out.println("Enter Unsorted array elements: ");
 		for(int i=0; i<n; i++) {
 			a[i]= sc.nextInt();
 		}
