@@ -1,9 +1,6 @@
-```java
-package Basics;
+<a href="https://discord.gg/KszUaCwTsQ"><img src="https://cdn.discordapp.com/attachments/1129989242622312458/1151512659934597160/GitHubBanner_1.png" width="100%" height="auto"/></a>
 
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println(" Hello World but our braincells are drained. ");
-    }
-}
-```
+> - Follow GitHub Terms of Service and Community Guidelines!
+> - Do not forget to give a STAR or FORK this maybe.
+> - If there are any errors please fix them on your own and some parts of the code have logical errors.
+> - Stay safe and enjoy your day/night and Do not forget to eat well also don't stress yourself, okay? :)
